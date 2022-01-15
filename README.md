@@ -59,4 +59,4 @@
 
 [youtube]: https://www.youtube.com/c/codingwithdidem
 [twitter]: https://twitter.com/DidemKkkaraasl1
-[linkedin]: https://www.linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/
+[linkedin]: https://www.linkedin.com/in/kerem-nalbant-6b5129172
