@@ -2,8 +2,6 @@
 
 ## Candidate Computer Engineer
 
-<font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
-
 ### Reach out to me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
