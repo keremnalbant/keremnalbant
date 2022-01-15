@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
 
-### Hi there, I'm Didem. :blush:
+### Hi there, I'm Kerem Nalbant. :blush:
 
-## React Developer | Youtube Content Creator
+## Candidate Computer Engineer
 
 <font color="pink">Coffee :coffee: is how I keep up with `< code />` </font>
 
