@@ -1,6 +1,6 @@
 ### Hi there, I'm Kerem Nalbant. :blush:
 
-## Candidate Computer Engineer
+## .NET CORE - MVC - API Devoloper
 
 ### Reach out to me
 
