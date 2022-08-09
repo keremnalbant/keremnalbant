@@ -32,4 +32,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremnalbant&layout=compact" >
 </details>
 
-[linkedin]: https://www.linkedin.com/in/kerem-nalbant-6b5129172
+[linkedin]: https://www.linkedin.com/in/kerem-nalbant
