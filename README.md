@@ -1,6 +1,6 @@
 ### Hi there, I'm Kerem Nalbant. :blush:
 
-## .NET CORE - MVC - API / Vue - React - Angular Developer 
+## .NET CORE / React - Vue Developer 
 
 ### Reach out to me
 
